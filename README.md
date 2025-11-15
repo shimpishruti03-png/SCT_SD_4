@@ -21,5 +21,6 @@ This tool is built using:
 
  Displays results in a table  
 - Saves scraped data as a **CSV file**  
-- Works with demo e-commerce sites (e.g., BooksToScrape)  
+- Works with demo e-commerce sites (e.g., BooksToScrape (Url - https://books.toscrape.com/
+)  
 - Lightweight and fast  
